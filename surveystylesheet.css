@@ -1,0 +1,13 @@
+html {
+  background: url("environment3.gif");
+  background-size: cover;
+}
+
+form {
+border:5px solid #9C0;
+background-color:#FFF;
+padding: 12px;}
+
+input {color: #096; font-weight:bold}
+
+h1,h2, p {margin-bottom:26px}
