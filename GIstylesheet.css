@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h3 {
+  margin: 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+p{font-family: "Trebuchet MS", Helvetica, sans-serif;}
+
+.section1 {
+  height:250px;
+  background-color:hsla(89, 43%, 51%, 0.3);
+}
+.section2 {
+  height: 300px;
+  background-color: hsl(240, 67%, 94%);
+}
+h1{
+  text-align: center;
+  background-color: lightblue;
+  margin: 0;
+  padding: 30px;
+}
+
+#getinvolved {
+  padding-left:30px;
+  padding-right:30px;
+  padding-bottom: 30px;
+  padding-top:60px;
+}

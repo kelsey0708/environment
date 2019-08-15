@@ -1,0 +1,14 @@
+html {
+  background: url("environment2.gif") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: white;
+}
+
+p {
+  padding-top: 20px;
+}

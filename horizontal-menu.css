@@ -1,0 +1,29 @@
+#title {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+#mainMenu {
+	width: 900px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin:0 auto;
+  list-style:none;
+  color: lightblue;
+}
+
+#mainMenu li {
+	display:block;
+	width:175px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #009;
+}
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#009;
+	color:#fff;
+}
+#mainMenu a:hover {
+  color:#009900;
+}
