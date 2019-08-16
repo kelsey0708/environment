@@ -20,6 +20,7 @@ input {color: #096; font-weight:bold}
 
 #title2 {
   padding: 20px;
+  background-color: lightblue;
 }
 p {
   margin-bottom:26px;
@@ -28,6 +29,7 @@ p {
 body {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
-h1 {
+/* h1 {
     background-color: lightblue;
 }
+ */
