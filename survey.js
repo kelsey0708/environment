@@ -5,7 +5,7 @@ function calcscore() {
   });
   $("input[name=sum]").val(score)
 }
-$(function() {
+$().ready(function() {
   $(".calc").change(function(){
     calcscore()
   });
