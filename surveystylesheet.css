@@ -11,9 +11,6 @@ input {color: #096; font-weight:bold}
 
 h1,h2, p {margin-bottom:26px}
 
-#survey {
-  padding-left:30px;
-  padding-right:30px;
-  padding-bottom: 30px;
-  padding-top:60px;
+body {
+    font-family:"Trebuchet MS", Helvetica, sans-serif
 }
