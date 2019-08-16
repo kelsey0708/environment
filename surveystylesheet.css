@@ -28,6 +28,6 @@ p {
 body {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
-#title {
+h1 {
     background-color: lightblue;
 }
