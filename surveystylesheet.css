@@ -13,15 +13,25 @@ padding: 12px;}
 
 input {color: #096; font-weight:bold}
 
-#title {
-  margin:0;
-  padding: 15px;
+h1 {
+  text-align: center;
+  background-color: lightblue;
+  margin: 0;
+  padding: 30px;
 }
 
-#title2 {
-  padding: 20px;
+/* #title {
+  margin:0;
+  padding: 15px;
   background-color: lightblue;
+} */
+
+#title2 {
+  padding-top:50px;
+
 }
+
+
 p {
   margin-bottom:26px;
 }
