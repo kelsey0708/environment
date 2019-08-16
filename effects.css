@@ -5,13 +5,23 @@
 }
 h5{font-size: 17px; color:white ;font-family:"Trebuchet MS", Helvetica, sans-serif;}
 h3{color:white ;font-family: "Trebuchet MS", Helvetica, sans-serif;}
+
 h1{
-  padding:30px;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  text-align: center;
   background-color: lightblue;
-  height: 50px;
   margin: 0;
+  padding: 30px;
 }
+
+/* #title {
+  padding-top:30px;
+  padding-bottom: 50px;
+} */
+
+#info {
+  padding-top: 60px;
+}
+
 .pollution {
   background-image: url("https://www.nationalgeographic.com/content/dam/science/2018/08/30/air-pollution/air-pollution-gettyimages-625667928.jpg");
   height: 400px;
@@ -45,8 +55,4 @@ div {
 
 h3 {
   margin:0;
-}
-
-#info {
-  padding-top: 60px;
 }
