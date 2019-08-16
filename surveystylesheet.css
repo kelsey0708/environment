@@ -15,5 +15,8 @@ body {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
 #title {
+    padding: 30px;
     background-color: #6BDCF9;
+    height: 50px;
+    margin: 0;
 }
