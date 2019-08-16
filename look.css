@@ -5,6 +5,7 @@ body{
 	background-color:#daffb3;
 	margin: 0;
 }
+
 .question{
 	font-weight: 600;
 	text-align: center;
@@ -34,4 +35,8 @@ h1{
   margin: 0;
 	background-color: lightblue;
 	padding: 35px;
+}
+
+#subtitle {
+	padding-top:60px;
 }

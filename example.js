@@ -35,7 +35,7 @@ var myQuestions = [
     question: "How much of produced food is wasted each year?",
     answers: {
       a: '1/3 of food',
-      b: '6/8 of food'
+      b: '3/4 of food'
     },
     correctAnswer: 'a'
   }
