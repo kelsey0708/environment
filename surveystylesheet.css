@@ -2,6 +2,10 @@ html {
   background-size: cover;
 }
 
+body {
+  margin:0;
+  padding:0;
+}
 form {
 border:5px solid #9C0;
 background-color: #6BDCF9;
@@ -9,7 +13,17 @@ padding: 12px;}
 
 input {color: #096; font-weight:bold}
 
-h1,h2, p {margin-bottom:26px}
+#title {
+  margin:0;
+  padding: 15px;
+}
+
+#title2 {
+  padding: 20px;
+}
+p {
+  margin-bottom:26px;
+}
 
 body {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
