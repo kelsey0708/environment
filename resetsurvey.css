@@ -1,0 +1,20 @@
+#resetBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  left: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: lightpink;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  font-size: 18px;
+  border-radius: 50%
+}
+
+#resetBtn:hover {
+  background-color: lightskyblue;
+  color: lightslategray;
+}
