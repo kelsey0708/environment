@@ -33,8 +33,9 @@ body{
 h1{
   text-align: center;
   margin: 0;
-	background-color: lightblue;
-	padding: 35px;
+  background-color: lightblue;
+  padding: 35px;
+  font-size: 30px;
 }
 
 #subtitle {
