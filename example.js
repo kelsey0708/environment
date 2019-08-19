@@ -38,6 +38,46 @@ var myQuestions = [
       b: '3/4'
     },
     correctAnswer: 'a'
+  },
+  {
+    question: "6. How long does it take for a styrofoam cup to decompose?",
+    answers: {
+      a: '100 years',
+      b: 'Over 400 years'
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "7. How much water does the average American use each day?",
+    answers: {
+      a: '30 gallons',
+      b:'100 gallons'
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "8. Scientists predict sea levels will rise by how much by the end of the century?",
+    answers: {
+      a: '2 to 6 ft',
+      b: '8 to 10 inches'
+    },
+    correctAnswer: 'a'
+  },
+  {
+    question: "9. What percent of the global electricity ouput in 2014 was supplied by renewable energy?",
+    answers: {
+      a: '30%',
+      b: '19%'
+    },
+    correctAnswer: 'b'
+  },
+  {
+    question: "10. What percent of the world's water is available for human use?",
+    answers: {
+      a: 'Less than 1%',
+      b: '20%'
+    },
+    correctAnswer: 'a'
   }
 ];
 
