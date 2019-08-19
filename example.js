@@ -16,10 +16,10 @@ var myQuestions = [
     correctAnswer:'a'
   },
   {
-    question:"How much plastic ends up in the ocean?",
+    question:"How much plastic ends up in the ocean each year?",
     answers:{
-      a:'Eight million metric ton eah year',
-      b:'Two million metric ton each year'
+      a:'8 million metric tons',
+      b:'2 million metric tons'
     },
     correctAnswer:'a'
   },
@@ -32,10 +32,10 @@ var myQuestions = [
     correctAnswer: 'b'
   },
   {
-    question: "How much of produced food is wasted each year?",
+    question: "How much of food produced each year is wasted?",
     answers: {
-      a: '1/3 of food',
-      b: '3/4 of food'
+      a: '1/3',
+      b: '3/4'
     },
     correctAnswer: 'a'
   }
