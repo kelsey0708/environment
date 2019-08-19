@@ -1,6 +1,6 @@
 var myQuestions = [
   {
-    question: "How much plastic is in the world?",
+    question: "1. How much plastic is in the world?",
     answers: {
       a: '3.5 billion metric tons',
       b: '8.3 billion metric tons'
@@ -8,7 +8,7 @@ var myQuestions = [
     correctAnswer: 'b'
   },
   {
-    question:"How much of the world's plastic has been recycled?",
+    question:"2. How much of the world's plastic has been recycled?",
     answers:{
       a:'9%',
       b:'20%'
@@ -16,7 +16,7 @@ var myQuestions = [
     correctAnswer:'a'
   },
   {
-    question:"How much plastic ends up in the ocean each year?",
+    question:"3. How much plastic ends up in the ocean each year?",
     answers:{
       a:'8 million metric tons',
       b:'2 million metric tons'
@@ -24,7 +24,7 @@ var myQuestions = [
     correctAnswer:'a'
   },
   {
-    question: "What percent of items in landfills can be recycled?",
+    question: "4. What percent of items in landfills can be recycled?",
     answers: {
       a: '30%',
       b: '80%'
@@ -32,7 +32,7 @@ var myQuestions = [
     correctAnswer: 'b'
   },
   {
-    question: "How much of food produced each year is wasted?",
+    question: "5. How much of food produced each year is wasted?",
     answers: {
       a: '1/3',
       b: '3/4'
