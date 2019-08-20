@@ -3,31 +3,35 @@ var myQuestions = [
     question: "1. How much plastic is in the world?",
     answers: {
       a: '3.5 billion metric tons',
-      b: '8.3 billion metric tons'
+      b: '5.1 billion metric tons',
+      c: '8.3 billion metric tons'
     },
-    correctAnswer: 'b'
+    correctAnswer: 'c'
   },
   {
     question:"2. How much of the world's plastic has been recycled?",
     answers:{
-      a:'9%',
-      b:'20%'
+      a: '9%',
+      b: '13%',
+      c: '20%'
     },
     correctAnswer:'a'
   },
   {
     question:"3. How much plastic ends up in the ocean each year?",
     answers:{
-      a:'8 million metric tons',
-      b:'2 million metric tons'
+      a:'4 million metric tons',
+      b:'6 million metric tons',
+      c:'8 million metric tons'
     },
-    correctAnswer:'a'
+    correctAnswer:'c'
   },
   {
     question: "4. What percent of items in landfills can be recycled?",
     answers: {
-      a: '30%',
-      b: '80%'
+      a: '50%',
+      b: '80%',
+      c: '90%'
     },
     correctAnswer: 'b'
   },
@@ -35,7 +39,8 @@ var myQuestions = [
     question: "5. How much of food produced each year is wasted?",
     answers: {
       a: '1/3',
-      b: '3/4'
+      b: '1/2',
+      c: '3/4'
     },
     correctAnswer: 'a'
   },
@@ -43,39 +48,44 @@ var myQuestions = [
     question: "6. How long does it take for a styrofoam cup to decompose?",
     answers: {
       a: '100 years',
-      b: 'Over 400 years'
+      b: '250 years',
+      c: 'Over 400 years'
     },
-    correctAnswer: 'b'
+    correctAnswer: 'c'
   },
   {
     question: "7. How much water does the average American use each day?",
     answers: {
       a: '30 gallons',
-      b:'100 gallons'
+      b: '100 gallons',
+      c: '150 gallons'
     },
     correctAnswer: 'b'
   },
   {
     question: "8. Scientists predict sea levels will rise by how much by the end of the century?",
     answers: {
-      a: '2 to 6 ft',
-      b: '8 to 10 inches'
+      a: '8 to 10 inches',
+      b: '2 to 6 feet',
+      c: 'More than 8 feet'
     },
-    correctAnswer: 'a'
+    correctAnswer: 'b'
   },
   {
     question: "9. What percent of the global electricity ouput in 2014 was supplied by renewable energy?",
     answers: {
-      a: '30%',
-      b: '19%'
+      a: '19%',
+      b: '30%',
+      c: '38%',
     },
-    correctAnswer: 'b'
+    correctAnswer: 'a'
   },
   {
     question: "10. What percent of the world's water is available for human use?",
     answers: {
       a: 'Less than 1%',
-      b: '20%'
+      b: '20%',
+      c: '50%'
     },
     correctAnswer: 'a'
   }
